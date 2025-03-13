@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jicheng(Jeremy)  Wang 
 
-🎓 **Computer Science at UC Davis**
+🎓 **Computer Science at UC Davis**  
 🔍 Focused on **AI/LLM, Software Engineering, Performance Optimization, and Large-Scale Systems**  
 💻 **Experienced in C++, Python, C#, TypeScript**  
 🚀 Passionate about **Scalable AI, Code Generation, Distributed Systems, and Cloud Computing**  
