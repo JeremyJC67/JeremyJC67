@@ -1,45 +1,9 @@
-# 👋 Hi, I'm Jicheng Wang (Jeremy)  
+# 👋 Hi, I'm Jicheng(Jeremy)  Wang 
 
-🎓 **Master’s Student in Computer Science at UC Davis** (GPA 4.0/4.0)  
-🔍 **Researcher at UC Davis Security Lab** – Focused on **AI for Code, Performance Optimization, and Large-Scale Systems**  
-💻 **Experienced in C++, Python, Go, and Performance Engineering**  
-🚀 Passionate about **Scalable AI, Distributed Systems, and Cloud Computing**  
-
----
-
-## 🔥 Featured Publications
-### **1️⃣ RepoGenReflex: Repository-Level Code Completion**
-📜 **[Paper on arXiv](https://arxiv.org/abs/2409.13122)**  
-📌 **Key Contributions**:
-- Developed **RepoGenReflex**, a **repository-level code completion framework** integrating **retrieval-augmented generation (RAG)** and **Verbal Reinforcement Learning**.
-- Improved **accuracy by 2%** and **relevance by 5%** through an iterative feedback loop.
-- Implemented a **reflector module** for self-evaluating LLM-generated code.
-
-### **2️⃣ Exploring Fuzzing as Data Augmentation for Neural Test Generation**
-📜 **[Paper on arXiv](https://arxiv.org/abs/2406.08665)**  
-📌 **Key Contributions**:
-- Fine-tuned **code-based LLMs (SantaCoder, Code Llama)** for **test code generation** using **unit and fuzzing test data**.
-- **FuzzAug-enhanced models** improved:
-  - **Assertion accuracy by 5%**
-  - **Compilation rate by 10%+**
-  - **Branch coverage of unit tests by 5%**
-
----
-
-## 🚀 Highlighted Projects
-### **3️⃣ Secure and Scalable Voting System with ResilientDB**
-🔗 **[GitHub Repository](https://github.com/your-repo-secure-voting)**  
-📌 **Key Contributions**:
-- Designed a **high-performance distributed voting system** using **ResilientDB**.
-- Developed a **FastAPI backend** for **secure transaction handling and integrity verification**.
-- Built a **fault-tolerant cloud-native architecture** with **Kubernetes and Docker**.
-
-### **4️⃣ Effectiveness Analysis of Testing Frameworks**
-🔗 **[GitHub Repository](https://github.com/your-repo-testing-frameworks)**  
-📌 **Key Contributions**:
-- Collected **119 OSS-Fuzz projects** and analyzed testing techniques **(self-assessment vs. randomized)**.
-- Used **multivariate regression** to find correlations between testing approaches and bug-finding efficiency.
-- Provided insights into **how testing strategies impact software reliability**.
+🎓 **Computer Science at UC Davis**
+🔍 **Focused on **AI for Code, Software Engineer, Performance Optimization, and Large-Scale Systems**  
+💻 **Experienced in C++, Python, C#, TypeScript**  
+🚀 Passionate about **Scalable AI, Code Generation, Distributed Systems, and Cloud Computing**  
 
 ---
 
@@ -55,17 +19,31 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JichengWang&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JichengWang&theme=radical" />
-</p>
+## 🔥 **Featured Publications**
+### **1️⃣ RepoGenReflex: Repository-Level Code Completion**  
+📜 **[arXiv](https://arxiv.org/abs/2409.13122)**  
+- Proposed **RepoGenReflex**, integrating **Retrieval-Augmented Generation (RAG)** and **Verbal Reinforcement Learning** for **repository-level code completion**.  
+- Enhanced **accuracy (+2%)** and **relevance (+5%)** through **self-reflective iterative optimization**.  
+- Designed a **reflector module** for **self-evaluation of LLM-generated code**, refining prompt efficiency.  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JichengWang&layout=compact&theme=radical)
+### **2️⃣ Exploring Fuzzing as Data Augmentation for Neural Test Generation**  
+📜 **[arXiv](https://arxiv.org/abs/2406.08665)**  
+- Applied **FuzzAug** to fine-tune **SantaCoder & Code Llama**, boosting LLM-based **test code generation**.  
+- Achieved **+5% assertion accuracy, +10% compilation rate, and +5% branch coverage** in unit tests.  
+- Optimized **code robustness** via hybrid **fuzzing and neural-based augmentation**.  
 
 ---
 
-## 📫 Contact Me
-📧 **Email:** jconliner67@gmail.com  
-🔗 **LinkedIn:** [Jicheng Wang](https://www.linkedin.com/in/jew452736w/)  
-💻 **GitHub:** [JichengWang](https://github.com/JichengWang)  
+## 🔥 **Highlighted Projects**  
+### **3️⃣ Secure and Scalable Voting System (ResilientDB)**  
+🔗 **[GitHub](https://github.com/your-repo-secure-voting)**  
+- Engineered a **fault-tolerant, high-performance voting system** leveraging **ResilientDB**.  
+- Built a **secure transaction pipeline** with **FastAPI, Kubernetes, and Docker**, ensuring **system resilience**.  
+
+### **4️⃣ Testing Frameworks: Impact Analysis on Software Reliability**  
+🔗 **[GitHub](https://github.com/your-repo-testing-frameworks)**  
+- Analyzed **119 OSS-Fuzz projects**, evaluating **self-assessment vs. randomized testing methodologies**.  
+- Applied **multivariate regression** to uncover correlations between **test strategies & bug detection efficacy**.  
+- Provided insights into **scalable, high-impact testing solutions** for software quality assurance.  
+
+---
