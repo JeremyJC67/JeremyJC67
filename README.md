@@ -34,7 +34,7 @@
 
 ---
 
-## 🔥 **Highlighted Projects**  
+## 🚀 **Highlighted Projects**  
 ### **3️⃣ Secure and Scalable Voting System (ResilientDB)**  
 🔗 **[GitHub](https://github.com/your-repo-secure-voting)**  
 - Engineered a **fault-tolerant, high-performance voting system** leveraging **ResilientDB**.  
