@@ -1,0 +1,27 @@
+name: Keep GitHub Active
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 每天运行一次（UTC 0点）
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update README
+        run: |
+          echo "Last updated: $(date)" > README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.email "jconliner67@gmail.com"
+          git config --global user.name "JeremyJC67"
+          git add README.md
+          git commit -m "Automated update $(date)"
+          git push
