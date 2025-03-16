@@ -14,14 +14,21 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      - name: Switch to main branch
+        run: git checkout main
+
       - name: Update README
         run: |
-          echo "Last updated: $(date)" > README.md
+          echo "Last updated: $(date) - $RANDOM" > README.md
 
       - name: Commit changes
         run: |
           git config --global user.email "jconliner67@gmail.com"
           git config --global user.name "JeremyJC67"
           git add README.md
-          git commit -m "Automated update $(date)"
-          git push
+          git commit -m "Automated update $(date)" || echo "No changes to commit"
+
+      - name: Push changes
+        run: git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
